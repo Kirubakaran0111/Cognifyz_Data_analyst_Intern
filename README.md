@@ -1,4 +1,4 @@
-# 📊 Cognifyz Data Analysis Internship – Project Repository
+# 📊 Cognifyz Data Analysis Internship
 
 This repository contains all the tasks completed as part of my **Data Analysis Internship at Cognifyz Technologies**. The internship focused on real-world restaurant datasets and covered data cleaning, analysis, visualization, and insight generation.
 
@@ -83,6 +83,8 @@ All charts are included in the **/visualizations** folder.
 ## 📫 Contact
 
 If you'd like to discuss this project or collaborate:
+
 **LinkedIn:** [(your profile l(https://www.linkedin.com/in/kirubakaran-balasubramanian)
+
 **Email:** bkirubakaran2003@gmail.com
 
